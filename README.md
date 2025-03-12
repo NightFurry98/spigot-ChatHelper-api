@@ -21,7 +21,7 @@ To add the API to your project, include the following dependency in your pom.xml
 ```xml
 <dependencies>
     <dependency>
-	    <groupId>com.github.NightFurry98</groupId>
+	<groupId>com.github.NightFurry98</groupId>
         <artifactId>spigot-ChatHelper-api</artifactId>
         <version>1.0.0</version>
     </dependency>
